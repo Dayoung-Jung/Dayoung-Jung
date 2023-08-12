@@ -1,6 +1,6 @@
 
 ### 🙌 Who Am I
-- I majored in Software Convergence at Kyung Hee University
+- I majored in Software Convergence (Data Science Track) at Kyung Hee University
 - I’m interested in **Data Science** and **MLOps**
   
 
@@ -13,12 +13,29 @@
 
 
 ### 🕹️ Activity
-| 값 | 의미 | 기본값 |
-|---|:---:|---:|
-| `static` | 유형(기준) 없음 / 배치 불가능 | `static` |
-| `relative` | 요소 자신을 기준으로 배치 |  |
-| `absolute` | 위치 상 부모(조상)요소를 기준으로 배치 |  |
-| `fixed` | 브라우저 창을 기준으로 배치 |  |
+
+#### Education Program
+| Date | Organization | Contents |
+|:---:|:---:|:---:|
+| 2020.07 - 2020.08 | 네이버 커넥트재단 | 부스트 코딩뉴비 챌린지 2020 | 
+| 2021.07 - 2021.07 | 경희대학교 공학교육혁신센터 | 2021 코딩기반 유니티를 활용한 AI 교육 |
+| 2022.07 - 2022.08 | 서울특별시 빅데이터 캠퍼스 | 2022 빅데이터캠퍼스 멘토링 3기 |
+
+#### Club 
+| Date | Organization | Role |
+|:---:|:---:|:---:|
+| 2020.07 - 2020.08 | 부스트 코딩뉴비 챌린지 2020 | 네이버 커넥트재단 |
+| 2021.07 - 2021.07 | 2021 코딩기반 유니티를 활용한 AI 교육 | 경희대학교 공학교육혁신센터 |
+| 2022.07 - 2022.08 | 2022 빅데이터캠퍼스 멘토링 3기 | 서울특별시 빅데이터 캠퍼스 |
+
+
+#### Awards
+| Date | Organization | Title | Award |
+|:---:|:---:|:---:|
+| 2020.07 - 2020.08 | 부스트 코딩뉴비 챌린지 2020 | 네이버 커넥트재단 |
+| 2021.07 - 2021.07 | 2021 코딩기반 유니티를 활용한 AI 교육 | 경희대학교 공학교육혁신센터 |
+| 2022.07 - 2022.08 | 2022 빅데이터캠퍼스 멘토링 3기 | 서울특별시 빅데이터 캠퍼스 |
+
 
 
 ### 💻 Technical Skill
