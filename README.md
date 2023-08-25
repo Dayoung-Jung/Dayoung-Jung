@@ -22,7 +22,7 @@
 | 2022.07 - 2022.08 | 서울특별시 빅데이터 캠퍼스 | 2022 빅데이터캠퍼스 멘토링 3기 |
 | 2022.09.15 | 경희대학교 SW중심대학사업단 | 동아리 단합 공모전 (우수상) |
 | 2022.12.16 | (주)벡스인텔리전스, (사)디엠씨코넷 | DMC 빅데이터 아이디어 오디션 (최우수상) |
-| 2023.09.01 - 2023.11.24 (예정) | Google | Google Machine Learning Boot Camp 4기 |
+| 2023.09.01 - 2023.11.24 (예정) | Google Korea | Google Machine Learning Boot Camp 4기 |
 | 2023.09.12 - 2024.03.29 (예정) | Amazon Web Services | AWS Cloud School 2기 |
 
 
