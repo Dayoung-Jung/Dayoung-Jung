@@ -21,7 +21,7 @@
 | 2021.12.10 | Kyung Hee University | SW Festival (Popularity Award) |
 | 2022.07 - 2022.08 | Seoul Big Data Campus | 2022 Big Data Campus Mentoring 3rd |
 | 2022.09.15 | Kyung Hee University | Club Unity Competition (Excellence Award) |
-| 2022.12.16 | The korean Operations Research and Management Science Society | DMC Big Data Idea Audition (Grand Award) |
+| 2022.12.16 | (사)한국경영과학회 | DMC Big Data Idea Audition (Grand Award) |
 | 2023.09.01 - 2023.11.24 | Google Korea | Google Machine Learning Boot Camp 2023 |
 | 2023.09.12 - 2024.03.29 | Amazon Web Services | AWS Cloud School 2rd |
 
