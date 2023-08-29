@@ -17,7 +17,7 @@
 | Date | Organization | Contents |
 |:---:|:---:|:---:|
 | 2020.07 - 2020.08 | NAVER Connect Foundation | Boost Coding Newbie Challenge 2020 |
-| 2021.07 - 2021.07 | Kyung Hee University | AI education using coding-based Unity 2021 |
+| 2021.07 - 2021.07 | Kyung Hee University | 2021 AI education using coding-based Unity |
 | 2021.12.10 | Kyung Hee University | SW Festival (인기상) |
 | 2022.07 - 2022.08 | Seoul Big Data Campus | 2022 Big Data Campus Mentoring 3기 |
 | 2022.09.15 | Kyung Hee University | Club Unity Competition (우수상) |
