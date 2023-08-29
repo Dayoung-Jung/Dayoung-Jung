@@ -17,13 +17,13 @@
 | Date | Organization | Contents |
 |:---:|:---:|:---:|
 | 2020.07 - 2020.08 | NAVER Connect Foundation | Boost Coding Newbie Challenge 2020 |
-| 2021.07 - 2021.07 | 경희대학교 공학교육혁신센터 | 2021 코딩기반 유니티를 활용한 AI 교육 |
-| 2021.12.10 | 경희대학교 소프트웨어융합대학 | 경희대학교 SW페스티벌 (인기상) |
-| 2022.07 - 2022.08 | 서울특별시 빅데이터 캠퍼스 | 2022 빅데이터캠퍼스 멘토링 3기 |
-| 2022.09.15 | 경희대학교 SW중심대학사업단 | 동아리 단합 공모전 (우수상) |
-| 2022.12.16 | (주)벡스인텔리전스, (사)디엠씨코넷 | DMC 빅데이터 아이디어 오디션 (최우수상) |
+| 2021.07 - 2021.07 | Kyung Hee University | 2021 AI education using coding-based Unity |
+| 2021.12.10 | Kyung Hee University | SW Festival (Popularity Award) |
+| 2022.07 - 2022.08 | Seoul Big Data Campus | 2022 Big Data Campus Mentoring 3rd class |
+| 2022.09.15 | Kyung Hee University | Club Unity Competition (Excellence Award) |
+| 2022.12.16 | Bex Intelligence Co., Ltd. & DMC Cornet Co., Ltd. | DMC Big Data Idea Audition (Grand Award) |
 | 2023.09.01 - 2023.11.24 (예정) | Google Korea | Google Machine Learning Boot Camp 2023 |
-| 2023.09.12 - 2024.03.29 (예정) | Amazon Web Services | AWS Cloud School 2기 |
+| 2023.09.12 - 2024.03.29 (예정) | Amazon Web Services | AWS Cloud School 2rd class |
 
 
 <br>
