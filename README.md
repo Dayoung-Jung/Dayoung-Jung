@@ -23,7 +23,7 @@
 | 2022.09.15 | Kyung Hee Univ. | Club Unity Competition (우수상) |
 | 2022.12.16 | (사)한국경영과학회 | DBI 2022 (최우수상) |
 | 2023.09.01 - 2023.11.24 (-ing) | Google Korea | Google Machine Learning Boot Camp 2023 |
-| 2023.09.13 - 2024.04.02 (-ing) | Amazon Web Services | AWS Cloud School 2기 |
+| 2023.09.13 - 2024.04.02 (-ing) | Amazon Web Services | AWS Cloud School 3기 |
 
 
 <br>
