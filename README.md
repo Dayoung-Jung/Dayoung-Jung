@@ -1,7 +1,8 @@
 
 ### 🙌 Who Am I
-- I majored in Software Convergence (Data Science Track) at Kyung Hee University
-- I’m interested in **Data Science** and **MLOps**
+- I majored in Software Convergence (Data Science Track) at Kyung Hee University.
+- I’m interested in **Data Science** and **MLOps**.
+- My career goal is to grow as **a developer for the MLOps platform**.
   
 <br>
 
